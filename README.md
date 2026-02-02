@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Engineer | Backend-Focused | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ssb-/" target="_blank">
+  <a href="https://www.linkedin.com/in/shubham-bhoyar-522a0b218/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/dr-blue-cyber/" target="_blank">
